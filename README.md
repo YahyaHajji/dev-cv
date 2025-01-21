@@ -1,4 +1,4 @@
-# Portfolio V5
+# Portfolio V8
 Hello everyone!
 Let me introduce myself, I am Baali Youness, and on this occasion, I would like to share a portfolio website project that I have developed.
 
@@ -6,12 +6,13 @@ Tech Stack used:
 - ReactJS
 - Tailwind CSS
 - AOS
-- Firebase
 - Framer Motion
 - Lucide
 - Material UI
 - SweetAlert2
 - NodeMailer
+- Render
+- Netlify
 
 
 Website Link:
