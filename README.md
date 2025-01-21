@@ -15,7 +15,7 @@ Tech Stack used:
 
 
 Website Link:
------ https://www.eki.my.id/
+----- https://eclectic-muffin-dd8a8d.netlify.app/
 
 
 # Project Running Tutorial
@@ -33,7 +33,7 @@ Make sure you have installed:
 1. **Download this project:**
 
 ```bash
-git clone https://github.com/EkiZR/Portofolio_V5.git
+git clone https://github.com/YahyaHajji/dev-cv.git
 ```
 
 2. **Install all the requirements:**
